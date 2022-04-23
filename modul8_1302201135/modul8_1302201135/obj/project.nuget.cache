@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TxtrfySenoSIWyRMnfvc8of+UAyZE9H6ZOghTr/r3EAaYBJ8a3KxlEa8l58GNPvflfc9DxQ3hwRMRDKDNRPAKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS_A409U\\source\\repos\\Modul8_1302201135\\modul8_1302201135\\modul8_1302201135\\modul8_1302201135.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS_A409U\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS_A409U\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS_A409U\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS_A409U\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS_A409U\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS_A409U\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
